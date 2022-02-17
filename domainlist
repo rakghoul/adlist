@@ -63,6 +63,11 @@ analytics.mobile.yandex.net
 extmaps-api.yandex.net
 adsdk.yandex.ru
 
+https://analyticsengine.s3.amazonaws.com
+https://affiliationjs.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
+https://app.getsentry.com
+
 #apple tracking
 metrics.mzstatic.com
 trackingshipment.apple.com
