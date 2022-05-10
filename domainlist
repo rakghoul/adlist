@@ -63,10 +63,18 @@ analytics.mobile.yandex.net
 extmaps-api.yandex.net
 adsdk.yandex.ru
 
+https://freshmarketer.com/
+https://api.bugsnag.com
+https://app.bugsnag.com
+https://metrics1.data.hicloud.com
+
 https://analyticsengine.s3.amazonaws.com
 https://affiliationjs.s3.amazonaws.com
 https://advertising-api-eu.amazon.com
 https://app.getsentry.com
+https://widgets.pinterest.com
+https://metrics1.data.hicloud.com
+https://metrics5.data.hicloud.com 
 
 #apple tracking
 metrics.mzstatic.com
