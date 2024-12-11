@@ -1,5 +1,8 @@
 ##adlist for my pi from test site:d3ward.github.io/toolz/src/adblock.html###
 
+/pagead.js$domain=d3ward.github.io
+/widget/ads.
+
 doubleclick.net
 ad.doubleclick.net
 pagead2.googlesyndication.com
