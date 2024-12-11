@@ -1,15 +1,15 @@
 ##adlist for my pi from test site:d3ward.github.io/toolz/src/adblock.html###
 
-doubleclick.net/
-ad.doubleclick.net/
+doubleclick.net
+ad.doubleclick.net
 pagead2.googlesyndication.com
 pagead2.googleadservices.com
 pagead.googlesyndication.com
 static.media.net
 media.net
 adservetx.media.net
-media.fastclick.net/
-cdn.fastclick.net/
+media.fastclick.net
+cdn.fastclick.net
 aan.amazon.com
 aax.amazon-adsystem.com
 amazon-adsystem.com
@@ -63,7 +63,7 @@ analytics.mobile.yandex.net
 extmaps-api.yandex.net
 adsdk.yandex.ru
 
-https://freshmarketer.com/
+https://freshmarketer.com
 https://api.bugsnag.com
 https://app.bugsnag.com
 https://metrics1.data.hicloud.com
